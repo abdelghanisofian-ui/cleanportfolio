@@ -1,6 +1,6 @@
 body {
     /* Full-page astronaut background */
-    background-image: url('Bilder/astronaut.jpg');
+    background-image: url('astronaut.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -38,7 +38,7 @@ td {
 
 .insta-button {
   display: inline-block;
-  background-image: url('Bilder/insta-logo.jpg');
+  background-image: url('insta-logo.jpg');
   background-size: cover;
   background-position: center;
   width: 120px;
@@ -48,5 +48,6 @@ td {
   color: transparent;
   margin-top: 10px;
 }
+
 
 
