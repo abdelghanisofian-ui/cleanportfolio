@@ -1,5 +1,5 @@
 body {
-    background-image:url('Bilder/astronaut.jpg');
+    background-image:url('astronaut.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -52,5 +52,6 @@ body {
 /* justify-content: flex-end; unten rechts
 /* flex-wrap: wrap;
 */
+
 
 
